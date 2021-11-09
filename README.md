@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bvnger
 - 👀 I’m interested in UX/3D Animation
 - 🌱 I’m currently learning Unity and 3D modeling
-- 💞️ I’m looking to collaborate on small C# projects to work more with algorithms.
+- 💞️ I’m looking to collaborate on small C# projects to work more with algorithms
 - 📫 How to reach me bvnger@ayobruhman.com or BRUHLabs.com
 
 <!---
